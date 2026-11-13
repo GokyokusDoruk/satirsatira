@@ -1,0 +1,7 @@
+/Build/*.unityweb
+  Content-Type: application/octet-stream
+  Cache-Control: public, max-age=3600
+/Build/*.wasm.unityweb
+  Content-Type: application/wasm
+/*
+  X-Content-Type-Options: nosniff
