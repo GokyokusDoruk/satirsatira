@@ -1,6 +1,6 @@
-# Satır Satıra (Kanca Kapışması)
+# Satırsatıra
 
-Web build of the game **Kanca Kapışması**: Hamsiciler vs Lüferciler, hook your opponents across the river.
+Web build of the game **Satırsatıra**: Hamsiciler vs Lüferciler, hook your opponents across the river.
 Played on https://satirsatira.dorukplays.com (part of https://dorukplays.com).
 
 This repository only contains the compiled WebGL build (index.html, Build/, TemplateData/).
